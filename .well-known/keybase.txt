@@ -1,4 +1,5 @@
-://keybase.io/pilif
+==================================================================
+https://keybase.io/pilif
 --------------------------------------------------------------------
 
 I hereby claim:
@@ -25,10 +26,10 @@ To claim this, I am signing this object:
         "type": "web_service_binding",
         "version": 1
     },
-    "ctime": 1395961139,
+    "ctime": 1395961864,
     "expire_in": 157680000,
-    "prev": "d304d58fcbbc7c05aa8a9daf6246abfdfbf3a1a9bf8f19495afccf982a5ec1ec",
-    "seqno": 5,
+    "prev": "652c36540e420065dd37bf40f2d5e1b78cd53fee93e1ffe5166e2ad572c86d1f",
+    "seqno": 6,
     "tag": "signature"
 }
 
@@ -37,16 +38,16 @@ with the aforementioned key, yielding the PGP signature:
 -----BEGIN PGP MESSAGE-----
 Version: GnuPG v1
 
-owFNUb9rFEEUXi8qRBBMaenUlzC7s7M7s52IqUKagKLNMT/eXAbP3XV2c14MsZCA
-lqnTXGEjiAhpUogiCIL4B0iKQDpBsdTaN/7Cad68733f996b2b+4kAyWpo8sm2yc
-3j7z8e0XnWzkL9gO0Y3dJtUOuQO/gvP1GEIbfN2TilCR6VyX1FjjlBWZKTBhhpeF
-yIqcscJwBpQrMiSbTRcVaKNVByu+QQyTkbeI/uNf4+w65VextvW7oIUBK51MMwsZ
-TwUzNOc256UoLac0EjsItboLyG79xDuyOyQITb2BOHDs+395Ba9D0oamb0wzQXSz
-79sqivrtNrLugx790Y+0ry0ujIIphM43NalSZJreR8OUSS6LFMOQwKz1AUY+MuL6
-FE9sA1O0tIzmlgtntDalwfdQQkmrXJHlhdLOOu2YSpXUTrhU5pIrZ4yTIlMcTAqG
-xI3u1Q2pOI6pxmjZ+XGt+q0AZPfJ6tlkaZCcPzeIP5ZcWLz09x/Xnibz1R9f3z24
-9f3NlXD67fjk5cLn2fqzZD47enzj8PWrh8/DzYO95Q/v1+aXP/0E
-=At5z
+owFNUT2LFEEQnVtXUUHwIjHtRJT16O/pGSMRNRERzkgOl+nu6p3WdWacmVs9jgs0
+MvQPuJknBoKxkZmB/0ARBMHAX2G1X9hJdb1671UV9fzUkWyyuXrqxXL7652Nj+9/
+2Gxbvj2+T2zr90i5T+7DrxBis4C+62MzkpJQw620OXXehcob7jQmwqlcG66lENop
+AVRVZEbqdkgKtLHVAFuxRQyTefSI/uNfUeIqVZextvu7YI0DX4SCcQ9cMSMclcpL
+lZvcK0oTcYC+qR4Asru4jIEczAhCq+ggDZz6/l/ewu+MdH07tq5dIlqPY1cm0bjX
+JdYjsPM/+rmNjceFUbCCfohtQ0qGTDfGZMhEoQrNjJYzAo+72MM8JkZan+JLbWCF
+llpxJ7SSFCSnVCvvRW6DpIF7BczmxnklAkAhgIUAimkNvPIq585ozwJJGz1sWlJq
+HLNaoOUQF0017vZADp5dm2abk+zY0Um6WHbyxOm/d3y3zl6cuTv9fHh489z6W003
+ntQfzn66t5OtL9aXzrPvF8ztG/TLm+vTlzu3Xr3+CQ==
+=bN6u
 -----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
