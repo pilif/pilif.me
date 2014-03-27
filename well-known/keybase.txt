@@ -1,0 +1,57 @@
+://keybase.io/pilif
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://pilif.me
+  * I am pilif (https://keybase.io/pilif) on keybase.
+  * I have a public key with fingerprint 082B 4B70 CDCF AD82 C6B7  03C5 7682 6433 6C53 E05A
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "082b4b70cdcfad82c6b703c5768264336c53e05a",
+            "host": "keybase.io",
+            "key_id": "768264336C53E05A",
+            "uid": "7b8ced9f912de25183c045d45787d500",
+            "username": "pilif"
+        },
+        "service": {
+            "hostname": "pilif.me",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1395961139,
+    "expire_in": 157680000,
+    "prev": "d304d58fcbbc7c05aa8a9daf6246abfdfbf3a1a9bf8f19495afccf982a5ec1ec",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owFNUb9rFEEUXi8qRBBMaenUlzC7s7M7s52IqUKagKLNMT/eXAbP3XV2c14MsZCA
+lqnTXGEjiAhpUogiCIL4B0iKQDpBsdTaN/7Cad68733f996b2b+4kAyWpo8sm2yc
+3j7z8e0XnWzkL9gO0Y3dJtUOuQO/gvP1GEIbfN2TilCR6VyX1FjjlBWZKTBhhpeF
+yIqcscJwBpQrMiSbTRcVaKNVByu+QQyTkbeI/uNf4+w65VextvW7oIUBK51MMwsZ
+TwUzNOc256UoLac0EjsItboLyG79xDuyOyQITb2BOHDs+395Ba9D0oamb0wzQXSz
+79sqivrtNrLugx790Y+0ry0ujIIphM43NalSZJreR8OUSS6LFMOQwKz1AUY+MuL6
+FE9sA1O0tIzmlgtntDalwfdQQkmrXJHlhdLOOu2YSpXUTrhU5pIrZ4yTIlMcTAqG
+xI3u1Q2pOI6pxmjZ+XGt+q0AZPfJ6tlkaZCcPzeIP5ZcWLz09x/Xnibz1R9f3z24
+9f3NlXD67fjk5cLn2fqzZD47enzj8PWrh8/DzYO95Q/v1+aXP/0E
+=At5z
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/pilif
+
+==================================================================
