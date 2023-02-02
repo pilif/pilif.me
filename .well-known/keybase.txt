@@ -4,51 +4,49 @@ https://keybase.io/pilif
 
 I hereby claim:
 
-  * I am an admin of http://pilif.me
+  * I am an admin of https://pilif.me
   * I am pilif (https://keybase.io/pilif) on keybase.
-  * I have a public key with fingerprint 082B 4B70 CDCF AD82 C6B7  03C5 7682 6433 6C53 E05A
+  * I have a public key ASBFS5TgkeGoZUCRrN_kuS41FSoISZNWRXTXkVAEjGsRvgo
 
-To claim this, I am signing this object:
+To do so, I am signing this object:
 
 {
-    "body": {
-        "key": {
-            "fingerprint": "082b4b70cdcfad82c6b703c5768264336c53e05a",
-            "host": "keybase.io",
-            "key_id": "768264336C53E05A",
-            "uid": "7b8ced9f912de25183c045d45787d500",
-            "username": "pilif"
-        },
-        "service": {
-            "hostname": "pilif.me",
-            "protocol": "http:"
-        },
-        "type": "web_service_binding",
-        "version": 1
+  "body": {
+    "key": {
+      "eldest_kid": "0111731adc9568ca65dba1f9a75b45020a4648189db7e333ee05ec77a0ccd16a18c70a",
+      "host": "keybase.io",
+      "kid": "0120454b94e091e1a8654091acdfe4b92e35152a084993564574d79150048c6b11be0a",
+      "uid": "7b8ced9f912de25183c045d45787d500",
+      "username": "pilif"
     },
-    "ctime": 1395961864,
-    "expire_in": 157680000,
-    "prev": "652c36540e420065dd37bf40f2d5e1b78cd53fee93e1ffe5166e2ad572c86d1f",
-    "seqno": 6,
-    "tag": "signature"
+    "merkle_root": {
+      "ctime": 1675322254,
+      "hash": "73897ddce3669e4901c073898d9d28374718e695ede31cb72dbd00d97933468d256eb3e4fb60a805bf78ad939b9d20a9d39a8c6dd399ddfa2bf4d8e3dded6aa0",
+      "hash_meta": "8f7fd59949413d9b0bdfcd8472728c21b8d8d39d5c042e8603fa2f46857819d5",
+      "seqno": 23975972
+    },
+    "service": {
+      "entropy": "ZQxV4Ca0dzf3yo1t2kbymMNc",
+      "hostname": "pilif.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.4"
+  },
+  "ctime": 1675322260,
+  "expire_in": 504576000,
+  "prev": "38b82adca2115024e1d56d09d0ce1c08e6e83d21b26ad23703bd2bbbf9d2f386",
+  "seqno": 41,
+  "tag": "signature"
 }
 
-with the aforementioned key, yielding the PGP signature:
+which yields the signature:
 
------BEGIN PGP MESSAGE-----
-Version: GnuPG v1
-
-owFNUT2LFEEQnVtXUUHwIjHtRJT16O/pGSMRNRERzkgOl+nu6p3WdWacmVs9jgs0
-MvQPuJknBoKxkZmB/0ARBMHAX2G1X9hJdb1671UV9fzUkWyyuXrqxXL7652Nj+9/
-2Gxbvj2+T2zr90i5T+7DrxBis4C+62MzkpJQw620OXXehcob7jQmwqlcG66lENop
-AVRVZEbqdkgKtLHVAFuxRQyTefSI/uNfUeIqVZextvu7YI0DX4SCcQ9cMSMclcpL
-lZvcK0oTcYC+qR4Asru4jIEczAhCq+ggDZz6/l/ewu+MdH07tq5dIlqPY1cm0bjX
-JdYjsPM/+rmNjceFUbCCfohtQ0qGTDfGZMhEoQrNjJYzAo+72MM8JkZan+JLbWCF
-llpxJ7SSFCSnVCvvRW6DpIF7BczmxnklAkAhgIUAimkNvPIq585ozwJJGz1sWlJq
-HLNaoOUQF0017vZADp5dm2abk+zY0Um6WHbyxOm/d3y3zl6cuTv9fHh489z6W003
-ntQfzn66t5OtL9aXzrPvF8ztG/TLm+vTlzu3Xr3+CQ==
-=bN6u
------END PGP MESSAGE-----
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgRUuU4JHhqGVAkazf5LkuNRUqCEmTVkV015FQBIxrEb4Kp3BheWxvYWTESpcCKcQgOLgq3KIRUCTh1W0J0M4cCOboPSGyatI3A70ru/nS84bEIOOEz38Y8nD8OMDw5BMdBCT37dVb9Er1cK3M9+F0KE4mAgHCo3NpZ8RA3yHpJLEwsb9QdkWZPgl+Qg0clKrFGVKwI2lWJNei2n4B6n59iTs6nTXOVVqr7r7jGNrPHsveerT5C8S6AN6rBahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIM14HSR+XOEjkTy9+fQB6Hppwd2bz0g7D1zOQP5P0YCdo3RhZ80CAqd2ZXJzaW9uAQ==
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
