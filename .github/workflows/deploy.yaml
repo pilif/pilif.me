@@ -1,0 +1,25 @@
+name: Deploy
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  deploy:
+    name: Deploy to prod
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Tailscale
+        uses: tailscale/github-action@v1
+        with:
+          authkey: ${{ secrets.TS_AUTH_KEY }}
+      - name: set up ssh auth
+        uses: webfactory/ssh-agent@v0.7.0
+        with:
+          ssh-private-key: ${{ secrets.DEPLOY_SSH_KEY }}
+      - name: rsync
+        run: rsync -vrtl --delete ./* ./.well-known pilif@miscweb.popscan.int:/var/webapps/pilif/pilif.me
+        env:
+          RSYNC_RSH: "ssh -o StrictHostKeyChecking=no"
